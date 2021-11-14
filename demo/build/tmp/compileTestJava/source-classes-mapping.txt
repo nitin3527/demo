@@ -1,0 +1,6 @@
+com/junit/demo/commonUtils/commonUtils.java
+ com.junit.demo.commonUtils.commonUtils
+com/junit/demo/TestStaticMockito.java
+ com.junit.demo.TestStaticMockito
+com/junit/demo/DemoApplicationTests.java
+ com.junit.demo.DemoApplicationTests
